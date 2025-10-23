@@ -218,9 +218,16 @@ Alternative mapping options: 
 Synthesize all of this information to help create your annotated diagram. Make sure the output 
 of your program agrees with the information from other sources, such as `/proc/PID/maps`.
 
-2. Add your diagram to your report.
+As you do this, run your sample program multiple times. Notice that the dynamic segments appear to "hop around" or re-locate in memory.
+
+
+2. What's going on here, and why? (Hint: google "address obfuscation")
+
+
+3. Add your diagram to your report.
    Include enough details (and possibly source code)
    so that I know how you found the information.
+
 
 Upload your writeup with the answers to the numbered questions, code samples,
 and screenshots of your running program below.
